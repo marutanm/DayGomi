@@ -1,5 +1,7 @@
-task :default => :hello
+require "rake/runtest"
 
-task :hello do
-  p 'hello'
+task :default => :test
+
+task :test do
+    Rake.run_tests 'test.rb'
 end
