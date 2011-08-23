@@ -1,3 +1,5 @@
+[![Build Status](http://travis-ci.org/marutanm/DayGomi.png)](http://travis-ci.org/marutanm/DayGomi)
+
 ```
 # clone project
 $ git clone git://github.com/marutanm/heroku-cedar-clock.git
